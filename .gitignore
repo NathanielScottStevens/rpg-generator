@@ -7,6 +7,9 @@ created by https://www.gitignore.io/api/intellij,java
 ## IntelliJ Hidden Files
 .idea/*
 
+## Gradle Hidden Files
+.gradle/
+
 ## File-based project format:
 *.iws
 
